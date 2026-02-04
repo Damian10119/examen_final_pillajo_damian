@@ -117,13 +117,24 @@ docker-compose down
 
 # CRUD
 
-CREAR (images/CREAR.png)
+## CREAR
 
-EDITAR (EDITAR.png)
+![CREAR](images/CREAR.png)
 
-ELIMINAR (ELIMINAR.png)
 
-LISTAR (LISTAR.png)
+## EDITAR
+
+![EDITAR](images/EDITAR.png)
+
+
+## ELIMINAR
+
+![ELIMINAR](images/ELIMINAR.png)
+
+
+## LISTAR
+
+![LISTAR](images/LISTAR.png)
 
 ## Autor
 Damian Pillajo
